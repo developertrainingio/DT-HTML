@@ -1,0 +1,11 @@
+body {
+  background-color: grey; 
+  /* background-image: url("../images/backgrounds/bg01.jpg"); */
+}
+
+p {
+  color: blue;
+}
+h2 {
+  color: red;
+}
